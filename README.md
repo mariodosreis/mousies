@@ -8,4 +8,6 @@ File `R/analysis.R` contains an R script that uses `R/mcmc.txt` as input to conv
 
 A detailed explanation is given in http://bit.ly/mousies
 
+Directory `bpp/` contains the necessary files to run an A00 analysis with BPP to obtain an MCMC sample for tau and theta under the multi-species coalescent.
+
 ![](mousies.png)
