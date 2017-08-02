@@ -10,7 +10,7 @@ A detailed explanation is given in http://bit.ly/mousies
 
 Directory `bpp/` contains the necessary files to run an A00 analysis with BPP to obtain the MCMC sample for tau and theta under the multi-species coalescent.
 
-This reproduces the divergence time analysis from Yoder et al. (PNAS, 113: 8049)
+This reproduces the divergence time analysis in Yoder et al. (PNAS, 113: 8049)
 
 ***
 
