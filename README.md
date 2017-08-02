@@ -6,7 +6,7 @@ File `R/mcmc.txt` contains an MCMC sample (obtained with the program BPP) from t
  
 File `R/analysis.R` contains an R script that uses `R/mcmc.txt` as input to convert the coalescent branch lengths (tau) into geological times of divergence, and to convert the scaled population sizes (theta) into actual effective population sizes (i.e., in numbe of individuals). 
 
-Directory `bpp/` contains the necessary files to run an A00 analysis with BPP to obtain the MCMC sample for tau and theta under the multi-species coalescent.
+Directory `bpp/` contains the necessary files to run an A00 analysis with BPP to obtain the MCMC sample for tau and theta.
 
 This reproduces the divergence time analysis in Yoder et al. (PNAS, 113: 8049)
 
